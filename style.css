@@ -630,6 +630,12 @@ footer {
     .nav-links {
         width: 100%;
     }
+    .fot a{
+        font-size: 20px;
+    }
+    .fot img{
+        height: 30px;
+    }
 
     .hero h1 {
         font-size: 2rem;
